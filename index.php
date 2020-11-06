@@ -11,7 +11,7 @@
     <div class="container-flulid">
         <div class="row">
             <div class="col-sm-6">
-                <img src="img/work/work.jpg" class="img-fluid img-thumbnail" style="height:100%; width:100%;">
+                <img src="work.jpg" class="img-fluid img-thumbnail" style="height:100%; width:100%;">
             </div>
             <div class="col-sm-3">
                 <img src="work1.jpg" class="img-fluid img-thumbnail"/>
